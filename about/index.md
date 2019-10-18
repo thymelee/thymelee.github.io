@@ -23,5 +23,5 @@ layout: page
 
 短发女生是宇宙最可爱的生物。
 
-![0]https://github.com/thymelee/thymelee.github.io/blob/master/about/about.png
+![0](https://github.com/thymelee/thymelee.github.io/blob/master/about/about.png)
 
