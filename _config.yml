@@ -153,8 +153,8 @@ menu_icons:
 
 # Schemes
 #scheme: Muse
-scheme: Mist
-#scheme: Pisces
+#scheme: Mist
+scheme: Pisces
 
 
 # ---------------------------------------------------------------
@@ -218,6 +218,7 @@ social:
   #LinkLabel: Link
     GitHub: https://github.com/thymelee
     School: https://www.bistu.edu.cn/
+    Twitter: https://twitter.com/rTXn7bikCvkhRIr
 
 
 # Social Links Icons
